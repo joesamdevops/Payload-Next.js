@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+build
+dist
+media/*
+yarn-error.log
+tsconfig.tsbuildinfo
+config.bat
